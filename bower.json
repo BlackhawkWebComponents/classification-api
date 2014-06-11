@@ -1,0 +1,7 @@
+{
+  "name": "classification-api#gh-pages",
+  "private": true,
+  "dependencies": {
+    "classification-api": "blackhawkwebcomponents/classification-api#master"
+  }
+}
